@@ -13,6 +13,7 @@ Kelvin -> Celsius
 
 Kelvin -> Fahrenheit
 
+---
 **Version:** v0.1
 
 **Last update:** 2026-04-01
