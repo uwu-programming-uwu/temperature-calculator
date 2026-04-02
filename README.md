@@ -14,8 +14,8 @@ Kelvin -> Celsius
 Kelvin -> Fahrenheit
 
 ---
-**Version:** v0.1
+**Version:** v0.2
 
-**Last update:** 2026-04-01
+**Last update:** 2026-04-02
 
-Link to the site (soon)
+[Link to the site](https://uwu-programming-uwu.github.io/temperature-calculator/)
