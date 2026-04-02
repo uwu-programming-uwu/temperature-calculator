@@ -5,14 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="tailwindcss/output.css">
+    <script src="script.js" defer></script>
 </head>
 
-<body>
-    <h1>Temperature calculator [BETA]</h1>
-    <p>Open Console (F12)</p>
-    <p>Open script.js and edit line <code>const val = <b>69</b>;</code> to value of your choosing.</p>
-    <p>Warning: this script doesnt prevent from inputing negative values for Kelvin.</p>
-    <script src="script.js"></script>
+<body class="flex flex-col justify-center items-center p-10 bg-gray-200">
+    <h1 class="font-black text-2xl">Temperature calculator [BETA]</h1>
+    <p class="text-lg">Open Console (F12)</p>
+    <p class="text-lg">Open script.js and edit line <code class="bg-gray-300 border-2 border-gray-400">const val = <b>69</b>;</code> to a value of your choosing.</p>
+    <p class="text-lg">Warning: this script doesnt prevent from inputing negative values (for example for Kelvin) yet.</p>
 </body>
 
 </html>
